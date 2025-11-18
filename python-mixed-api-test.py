@@ -1,0 +1,1 @@
+print('Mixed API load test')

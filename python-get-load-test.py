@@ -1,0 +1,1 @@
+print('GET load test script')
